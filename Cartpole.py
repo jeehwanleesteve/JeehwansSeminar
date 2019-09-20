@@ -19,7 +19,8 @@ label = data['label']
 
 #efefefe
 #egeg
-n_training = 5000
+n_training = 100000000
+#t3i4h3ig
 n_test = 6000
 training_index = np.arange(n_training)
 test_index = np.arange(n_training, n_training + n_test)
